@@ -19,7 +19,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
     <spring.version>4.3.12.RELEASE</spring.version>
-    <spring-security.version>4.2.3.RELEASE</spring-security.version>
+    <spring-security.version>5.2.10.RELEASE</spring-security.version>
     <spring-webflow.version>2.4.5.RELEASE</spring-webflow.version>
     <spring-support.version>2.0.6</spring-support.version>
 
